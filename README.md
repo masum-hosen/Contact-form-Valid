@@ -4,11 +4,11 @@
 
 ##### Successful picture below
 
-![Design preview for the News homepage coding challenge](./assets/images/Screenshot%202024-10-30%20at%2014-40-03%20Frontend%20Mentor%20Contact%20form.png)
+![Design Successful picture coding challenge](./assets/images/Screenshort.png)
 
 ##### Error picture below
 
-![Design preview for the News homepage coding challenge](./assets/images/Screenshot%202024-10-30%20at%2014-38-48%20Frontend%20Mentor%20Contact%20form.png)
+![Design Error picture coding challenge](./assets/images/Screenshot%202024-11-05%20at%2021-22-33%20Frontend%20Mentor%20Contact%20form.png)
 
 ## Deploying my project
 
